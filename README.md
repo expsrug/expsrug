@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Shruti Gupta</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
-<img align='right' width= '330' src='https://mir-s3-cdn-cf.behance.net/project_modules/hd/c44c1690013661.5e0a009911e87.gif'>
+<img align='right' width= '300' src='https://mir-s3-cdn-cf.behance.net/project_modules/hd/c44c1690013661.5e0a009911e87.gif'>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=explosrug&label=Profile%20views&color=0e75b6&style=flat" alt="explosrug" /> </p>
 
 - 🌱 I’m currently learning **Full Stack Using Mern**
