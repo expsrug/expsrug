@@ -21,4 +21,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=expsrug&show_icons=true&locale=en" alt="expsrug" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=expsrug&" alt="expsrug" /></p>
-<h2>Thank you for visiting my GitHub profile! Feel free to reach out or contribute to my projects.🚀</h2>
+<h3>Thank you for visiting my GitHub profile! Feel free to reach out or contribute to my projects.🚀</h3>
