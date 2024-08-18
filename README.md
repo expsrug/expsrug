@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/expsrug/expsrug/blob/main/githubbanner1%20.png)
 
 <h1 align="center">Hi 👋, I'm Shruti Gupta</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
