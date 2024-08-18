@@ -1,3 +1,5 @@
+![logo]()
+
 <h1 align="center">Hi 👋, I'm Shruti Gupta</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
 <img align='right' width= '330' src='https://mir-s3-cdn-cf.behance.net/project_modules/hd/c44c1690013661.5e0a009911e87.gif'>
